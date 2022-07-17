@@ -10,5 +10,5 @@ Here comes Magist. Magist is a Brazilian Software as a Service company that offe
    - Are orders delivered on time?
 
 
-### All code details are in project_sols.sql. Here we explored the Magist databse using MYSQL. I created Dashboards using TABLEAU which helped Eniac make decision about the business deal.
+ All code details are in project_sols.sql. Here we explored the Magist databse using MYSQL. I created Dashboards using TABLEAU which helped Eniac make decision about the business deal.
 
